@@ -1,7 +1,3 @@
-## This repository contains projects of medium to small sizes that i've made or collaborated on 
-# Note: Projects made only by me are organized in branches 
-
-
 ## Team projects I collaborated on
 https://github.com/sebastian-pitica/WriteRight-Text_editor-Csharp
 A text editor that has feature similar to Notepad++ (multiple tabs, text highlight based on the language of the file, etc) made in C#, using Windows Application.
